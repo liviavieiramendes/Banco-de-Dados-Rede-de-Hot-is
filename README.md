@@ -21,6 +21,6 @@ O objetivo é organizar dados de hotéis, quartos, funcionários, hóspedes, res
 
 O diagrama abaixo mostra como as tabelas se relacionam:
 
-<img width="807" height="791" alt="image" src="https://github.com/user-attachments/assets/0a03c796-219e-4e61-beef-f2e8dd242c83" />
+<img width="957" height="940" alt="Captura de tela 2025-06-28 114939" src="https://github.com/user-attachments/assets/837c5d76-d70b-4fcf-916b-24f9ba3e3b59" />
 
 Tecnologias: SQL e Draw.io

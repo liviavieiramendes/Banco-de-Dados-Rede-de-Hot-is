@@ -1,4 +1,4 @@
-# Banco de Dados — Rede de Hotéis Fictícia
+# Banco de Dados - Rede de Hotéis Fictícia
 
 Esse projeto foi criado para modelar o banco de dados de uma rede de hotéis, atendendo às regras de negócio fornecidas.
 O objetivo é organizar dados de hotéis, quartos, funcionários, hóspedes, reservas e pagamentos de forma clara e eficiente.
